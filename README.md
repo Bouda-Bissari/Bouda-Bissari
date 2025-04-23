@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/bouda-bissari">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b894,100:0984e3&height=250&section=header&text=Hi%20👋%2C%20I'm%20Bouda%20-%20React%20Developer&fontSize=30&fontColor=ffffff" />
+    <img src="https://github.com/user-attachments/assets/f3719aa5-f26a-4379-8501-956f00ffbf7c" />
   </a>
 </p>
 
