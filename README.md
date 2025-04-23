@@ -1,52 +1,45 @@
-# 💫 About Me
+<p align="center">
+  <a href="https://github.com/bouda-bissari">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b894,100:0984e3&height=250&section=header&text=Hi%20👋%2C%20I'm%20Bouda%20-%20React%20Developer&fontSize=30&fontColor=ffffff" />
+  </a>
+</p>
 
-Salut, moi c'est **Bouda** 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61dafb"/>
+  <img src="https://img.shields.io/badge/Code-Next.js-black?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-Laravel-red?style=flat&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-Tailwind-06b6d4?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+</p>
 
-Je suis un développeur passionné par la création de projets innovants et open source ! 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer+from+Togo;React%2C+Next.js%2C+Laravel+lover;Building+AgriTrack+🚀" alt="Typing SVG" />
+</p>
 
-## 💻 Ce que je fais
-- **Développement Web** : Création d'applications web dynamiques avec JavaScript, TypeScript, Angular et React.
-- **Développement Backend** : Construction d'API robustes avec Java, Spring Boot et d'autres technologies.
-- **UI/UX Design** : Conception d'interfaces modernes avec Tailwind CSS et autres outils de design.
+<h1 align="center">Hi 👋, I'm Bouda</h1>
+<h3 align="center">A passionate fullstack developer from Togo</h3>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/06/66/82/06668293e115bd47e0894a039160afbe.jpg"/>
 
-## 🌱 Mes centres d'intérêt
-- 🎮 Jeux vidéo
-- 📚 Lecture
-- 🎵 Musique
-- 🏋️‍♂️ Sport
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bouda-bissari&label=Profile%20views&color=0e75b6&style=flat" alt="bouda-bissari" /> </p>
 
-## 🤝 Connectons-nous !
-- [Instagram](https://www.instagram.com/jean_bissari/) 📸
-- [Email](mailto:jeanmariebissari@gmail.com) 💌
+- 🔭 I’m currently working on **AgriTrack**
 
-N'hésite pas à me contacter pour discuter, collaborer sur des projets ou simplement échanger sur les nouvelles technologies ! 😄
+- 🌱 I’m currently learning **React Native, Electron**
 
----
+- 👨‍💻 All of my projects are available at [https://bouda-portfolio.vercel.app/](https://bouda-portfolio.vercel.app/)
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jean-marieBissari) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jean_bissari) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeanmariebissari@gmail.com)
+- 💬 Ask me about **react,next js,laravel,spring**
 
----
+- 📫 How to reach me **boudabissari@gmail.com**
 
-## 💻 Tech Stack
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/jean-bissari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jean-bissari" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bouda-Bissari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/Bouda-Bissari)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bouda-Bissari&theme=dark&hide_border=false)](https://github.com/Bouda-Bissari)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bouda-Bissari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/Bouda-Bissari)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bouda-bissari&show_icons=true&locale=en" alt="bouda-bissari" /></p>
 
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Bouda-Bissari&icon=0&color=0)](https://visitcount.itsvg.in)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bouda-bissari&" alt="bouda-bissari" /></p>
