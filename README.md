@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/bouda-bissari">
-    <img height="400" width='900' src="https://github.com/user-attachments/assets/f3719aa5-f26a-4379-8501-956f00ffbf7c" />
+    <img height="400" width='700' src="https://github.com/user-attachments/assets/f3719aa5-f26a-4379-8501-956f00ffbf7c" />
   </a>
 </p>
 
